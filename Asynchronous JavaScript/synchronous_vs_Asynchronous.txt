@@ -1,0 +1,9 @@
+Synchronous => One at a time
+To pick ten objects we have only one hand.
+So, we can pick only one object at a time one by one.
+Cannot pick 7th before picking fourth.
+Will pick in sequence like 1, 2, 3, 4 .....
+
+Asynchronous => do things simultaneously
+To pick ten objects we have ten hands.
+While some task is in progress then some task after can be done.
