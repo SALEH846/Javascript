@@ -17,3 +17,6 @@ console.log("--------------------");
 const bindedWalk = person.walk.bind(person); // we are passing the person object in place of this so it will bind
 // with the person object
 bindedWalk();
+
+// A good resource to learn about 'this' keyword in JavaScript
+// https://www.w3schools.com/js/js_this.asp
