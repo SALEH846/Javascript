@@ -1,0 +1,16 @@
+Javascript is a dynamically typed programming language.
+All languages in which we can change the data type of a variable during program are called dynamically typed programming languages.
+Example: Python, Javascript, ...., etc
+Example code: (python)
+x = "karachi"
+print(x)
+x = 3
+print(x)
+Above code is absolutely valid.
+
+There is another type: static typed programming language.
+All languages in which we have to define the data type of a variable before of it being used are called static typed programming languages.
+Example: C, C++, ...., etc
+
+JavaScript is a case sensitive programming language.
+
